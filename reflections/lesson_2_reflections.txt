@@ -1,3 +1,7 @@
-What happens when you initialize a repository? Why do you need to do it?
+*What happens when you initialize a repository? Why do you need to do it?
 
 Git sets up the algorithms to track down my codes.
+
+*How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is the files that has been changed. , working directory is the whole working directory
