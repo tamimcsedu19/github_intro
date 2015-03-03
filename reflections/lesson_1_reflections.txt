@@ -1,0 +1,25 @@
+I knew about the reflection system.
+I used that before. Its very useful technique
+
+*How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Ans: It doesn't really matter on small programs , but in big programs , it really matters
+
+*Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Ans: Because they expect each file to be independent of one another .
+
+*git diff and git log are two useful commands for viewing the previous versions of the files
+But it seemed messy and I have have used the grep -A -B command to find the correct commit.
+But I can't think of a much easier way for version control
+
+
+How might using version control make you more confident to make changes that could break something?
+
+*The main thing about version about version control is , I have to save each file seperately. During code we always use
+previous versions by ctrl-z . Now during writing big codes , it may not be possible to check each time I write some code
+so I have to save each versions.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+* things are getting interesting , I like the color of the terminal.
